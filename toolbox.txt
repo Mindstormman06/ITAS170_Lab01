@@ -1,0 +1,18 @@
+bash        /usr/bin/bash
+git         /usr/bin/git
+ssh         /usr/bin/ssh
+docker      /usr/bin/docker
+code        /usr/bin/code
+uv          /home/aidenadzich/.local/bin/uv
+ollama      /usr/local/bin/ollama
+nvidia-smi  /usr/bin/nvidia-smi
+claude      /home/aidenadzich/.local/bin/claude
+opencode    /home/aidenadzich/.opencode/bin/opencode
+
+GNU bash, version 5.3.15(1)-release (x86_64-redhat-linux-gnu)
+git version 2.56.1
+Docker version 29.9.3, build 1.fc45
+uv 0.13.9 (x86_64-unknown-linux-gnu)
+Warning: could not connect to a running Ollama instance
+Warning: client version is 0.40.16
+2.1.327 (Claude Code)
