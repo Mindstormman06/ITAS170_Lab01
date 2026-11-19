@@ -1,3 +1,4 @@
+```
 Usage: grep [OPTION]... PATTERNS [FILE]...
 Search for PATTERNS in each FILE.
 Example: grep -i 'hello world' menu.h main.c
@@ -73,3 +74,4 @@ fewer than two FILEs, assume -h.  Exit status is 0 if any line is selected,
 Report bugs to: bug-grep@gnu.org
 GNU grep home page: <https://www.gnu.org/software/grep/>
 General help using GNU software: <https://www.gnu.org/gethelp/>
+```

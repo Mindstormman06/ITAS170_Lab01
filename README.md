@@ -217,35 +217,35 @@ Commands are not system wide, the terminal has to be explicitly pointed at a pro
 
 ## Part 4
 
-### Command #\1
+### Command #1
 
 `cut -d' ' -f4 access.log | cut -d: -f2 | sort | uniq -c | sort -nr | head -3`
 
 [AI Response](./part4_commands/command1/ai.md)\
 [Help Command](./part4_commands/command1/help.md)
 
-### Command #\2
+### Command #2
 
 `grep '" 404 ' access.log | cut -d' ' -f1 | sort | uniq -c | sort -nr | head -5`
 
 [AI Response](./part4_commands/command2/ai.md)\
 [Help Command](./part4_commands/command2/help.md)
 
-### Command #\3
+### Command #3
 
 `wc -l access.log`
 
 [AI Response](./part4_commands/command3/ai.md)\
 [Help Command](./part4_commands/command3/help.md)
 
-### Command #\4
+### Command #4
 Emphasis was put on `sort` for this explanation.\
 `cut -d' ' -f1 access.log | sort | uniq -c | sort -nr | head -5`
 
 [AI Response](./part4_commands/command4/ai.md)\
 [Help Command](./part4_commands/command4/help.md)
 
-### Command #\5
+### Command #5
 
 `cut -d' ' -f4 access.log | cut -d: -f2 | sort | uniq -c | sort -nr | head -3`
 

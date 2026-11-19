@@ -1,3 +1,4 @@
+```
 Usage: sort [OPTION]... [FILE]...
   or:  sort [OPTION]... --files0-from=F
 Write sorted concatenation of all FILE(s) to standard output.
@@ -102,3 +103,4 @@ General help using GNU software: <https://www.gnu.org/gethelp/>
 Full documentation <https://www.gnu.org/software/coreutils/sort>
 or available locally via: info '(coreutils) sort invocation'
 aidenadzich@Aidens-PC:~/Documents/ITAS170$ 
+```

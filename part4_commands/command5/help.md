@@ -1,3 +1,4 @@
+```
 Usage: uniq [OPTION]... [INPUT [OUTPUT]]
 Filter adjacent matching lines from INPUT (or standard input),
 writing to OUTPUT (or standard output).
@@ -45,3 +46,4 @@ GNU coreutils home page: <https://www.gnu.org/software/coreutils/>
 General help using GNU software: <https://www.gnu.org/gethelp/>
 Full documentation <https://www.gnu.org/software/coreutils/uniq>
 or available locally via: info '(coreutils) uniq invocation'
+```

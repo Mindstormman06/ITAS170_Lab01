@@ -1,3 +1,4 @@
+```
 Usage: wc [OPTION]... [FILE]...
   or:  wc [OPTION]... --files0-from=F
 Print newline, word, and byte counts for each FILE, and a total line if
@@ -37,3 +38,4 @@ GNU coreutils home page: <https://www.gnu.org/software/coreutils/>
 General help using GNU software: <https://www.gnu.org/gethelp/>
 Full documentation <https://www.gnu.org/software/coreutils/wc>
 or available locally via: info '(coreutils) wc invocation'
+```
